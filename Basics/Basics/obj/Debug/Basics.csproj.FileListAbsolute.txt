@@ -1,0 +1,6 @@
+c:\users\mahesh\documents\visual studio 2017\Projects\Basics\Basics\bin\Debug\Basics.exe.config
+c:\users\mahesh\documents\visual studio 2017\Projects\Basics\Basics\bin\Debug\Basics.exe
+c:\users\mahesh\documents\visual studio 2017\Projects\Basics\Basics\bin\Debug\Basics.pdb
+c:\users\mahesh\documents\visual studio 2017\Projects\Basics\Basics\obj\Debug\Basics.csprojResolveAssemblyReference.cache
+c:\users\mahesh\documents\visual studio 2017\Projects\Basics\Basics\obj\Debug\Basics.exe
+c:\users\mahesh\documents\visual studio 2017\Projects\Basics\Basics\obj\Debug\Basics.pdb

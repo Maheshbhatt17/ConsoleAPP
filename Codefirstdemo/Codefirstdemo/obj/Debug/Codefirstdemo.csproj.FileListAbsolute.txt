@@ -1,0 +1,12 @@
+C:\Users\MAHESH\Documents\Visual Studio 2017\Projects\Codefirstdemo\Codefirstdemo\bin\Debug\Codefirstdemo.exe.config
+C:\Users\MAHESH\Documents\Visual Studio 2017\Projects\Codefirstdemo\Codefirstdemo\bin\Debug\Codefirstdemo.exe
+C:\Users\MAHESH\Documents\Visual Studio 2017\Projects\Codefirstdemo\Codefirstdemo\bin\Debug\Codefirstdemo.pdb
+C:\Users\MAHESH\Documents\Visual Studio 2017\Projects\Codefirstdemo\Codefirstdemo\bin\Debug\EntityFramework.dll
+C:\Users\MAHESH\Documents\Visual Studio 2017\Projects\Codefirstdemo\Codefirstdemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MAHESH\Documents\Visual Studio 2017\Projects\Codefirstdemo\Codefirstdemo\bin\Debug\EntityFramework.xml
+C:\Users\MAHESH\Documents\Visual Studio 2017\Projects\Codefirstdemo\Codefirstdemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MAHESH\Documents\Visual Studio 2017\Projects\Codefirstdemo\Codefirstdemo\obj\Debug\Codefirstdemo.csprojResolveAssemblyReference.cache
+C:\Users\MAHESH\Documents\Visual Studio 2017\Projects\Codefirstdemo\Codefirstdemo\obj\Debug\Codefirstdemo.exe
+C:\Users\MAHESH\Documents\Visual Studio 2017\Projects\Codefirstdemo\Codefirstdemo\obj\Debug\Codefirstdemo.pdb
+C:\Users\MAHESH\Documents\Visual Studio 2017\Projects\Codefirstdemo\Codefirstdemo\obj\Debug\Codefirstdemo.Migrations.CreatePost.resources
+C:\Users\MAHESH\Documents\Visual Studio 2017\Projects\Codefirstdemo\Codefirstdemo\obj\Debug\Codefirstdemo.csproj.GenerateResource.Cache
